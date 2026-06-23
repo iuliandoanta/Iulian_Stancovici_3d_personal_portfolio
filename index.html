@@ -1,0 +1,66 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Iulian Stancovici · Portfolio</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="scroll-progress" id="progress"></div>
+  <nav class="topbar">
+    <a class="brand" href="#top">IULIAN STANCOVICI</a>
+    <div class="navlinks">
+      <a href="#work">Work</a>
+      <button id="aboutBtn" type="button">About</button>
+      <a href="#contact">Contact</a>
+    </div>
+  </nav>
+
+  <header class="hero" id="top">
+    <div class="hero-bg" id="heroBgA"></div>
+    <div class="hero-bg hero-bg-next" id="heroBgB"></div>
+    <div class="hero-vignette"></div>
+    <div class="hero-content" data-parallax="0.10">
+      <p class="kicker">3D Environment Artist · Level Art · Props</p>
+      <h1>Portfolio</h1>
+      <div class="hero-actions">
+        <a href="#work">View Work</a>
+        <button id="heroAboutBtn" type="button">About</button>
+      </div>
+    </div>
+  </header>
+
+  <main id="work">
+    <div id="sections"></div>
+
+    <section class="contact-section" id="contact">
+      <p class="section-index">Contact</p>
+      <h2>Let’s connect.</h2>
+      <div class="contact-actions">
+        <span class="email-label">iuliandoanta@gmail.com</span>
+        <a target="_blank" rel="noreferrer" id="linkedinLink">LinkedIn</a>
+        <a target="_blank" rel="noreferrer" id="artstationLink">ArtStation</a>
+        <a target="_blank" rel="noreferrer" id="instagramLink">Instagram</a>
+      </div>
+    </section>
+  </main>
+
+  <div class="about-panel" id="aboutPanel" aria-hidden="true">
+    <div class="about-card">
+      <button class="about-close" id="aboutClose" type="button">×</button>
+      <img id="aboutImage" alt="About" />
+    </div>
+  </div>
+
+  <div class="lightbox" id="lightbox" aria-hidden="true">
+    <button class="lightbox-close" id="lightboxClose" type="button">×</button>
+    <button class="lightbox-arrow left" id="prevBtn" type="button">‹</button>
+    <img id="lightboxImage" alt="Portfolio image" />
+    <button class="lightbox-arrow right" id="nextBtn" type="button">›</button>
+  </div>
+
+  <script src="assets/data.js"></script>
+  <script src="script.js"></script>
+</body>
+</html>

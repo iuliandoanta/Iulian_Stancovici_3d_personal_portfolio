@@ -139,35 +139,35 @@ window.PORTFOLIO_DATA = {
       "title": "Scans",
       "items": [
         {
-          "src": "assets/work/04_Scans/1 (2)",
+          "src": "assets/work/04_Scans/1 (2).png",
           "name": "1 (2)"
         },
         {
-          "src": "assets/work/04_Scans/1 (3)",
+          "src": "assets/work/04_Scans/1 (3).png",
           "name": "1 (3)"
         },
         {
-          "src": "assets/work/04_Scans/1 (4)",
+          "src": "assets/work/04_Scans/1 (4).png",
           "name": "1 (4)"
         },
         {
-          "src": "assets/work/04_Scans/1 (5)",
+          "src": "assets/work/04_Scans/1 (5).png",
           "name": "1 (5)"
         },
         {
-          "src": "assets/work/04_Scans/1 (6)",
+          "src": "assets/work/04_Scans/1 (6).png",
           "name": "1 (6)"
         },
         {
-          "src": "assets/work/04_Scans/1 (7)",
+          "src": "assets/work/04_Scans/1 (7).png",
           "name": "1 (7)"
         },
         {
-          "src": "assets/work/04_Scans/1 (8)",
+          "src": "assets/work/04_Scans/1 (8).png",
           "name": "1 (8)"
         },
         {
-          "src": "assets/work/04_Scans/1 (1)",
+          "src": "assets/work/04_Scans/1 (1).png",
           "name": "1 (1)"
         }
       ]

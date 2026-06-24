@@ -140,35 +140,35 @@ window.PORTFOLIO_DATA = {
       "items": [
         {
           "src": "assets/work/04_Scans/01_ChatGPT_Image_Jun_22_2026_05_44_04_PM.png",
-          "name": "ChatGPT Image Jun 22, 2026, 05_44_04 PM"
+          "name": "1 (2)"
         },
         {
           "src": "assets/work/04_Scans/02_ChatGPT_Image_Jun_22_2026_05_44_06_PM.png",
-          "name": "ChatGPT Image Jun 22, 2026, 05_44_06 PM"
+          "name": "1 (3)"
         },
         {
           "src": "assets/work/04_Scans/03_ChatGPT_Image_Jun_22_2026_05_44_08_PM.png",
-          "name": "ChatGPT Image Jun 22, 2026, 05_44_08 PM"
+          "name": "1 (4)"
         },
         {
           "src": "assets/work/04_Scans/04_ChatGPT_Image_Jun_22_2026_05_53_35_PM.png",
-          "name": "ChatGPT Image Jun 22, 2026, 05_53_35 PM"
+          "name": "1 (5)"
         },
         {
           "src": "assets/work/04_Scans/05_ChatGPT_Image_Jun_22_2026_05_53_37_PM.png",
-          "name": "ChatGPT Image Jun 22, 2026, 05_53_37 PM"
+          "name": "1 (6)"
         },
         {
           "src": "assets/work/04_Scans/06_ChatGPT_Image_Jun_22_2026_05_53_40_PM.png",
-          "name": "ChatGPT Image Jun 22, 2026, 05_53_40 PM"
+          "name": "1 (7)"
         },
         {
           "src": "assets/work/04_Scans/07_ChatGPT_Image_Jun_22_2026_05_54_24_PM.png",
-          "name": "ChatGPT Image Jun 22, 2026, 05_54_24 PM"
+          "name": "1 (8)"
         },
         {
           "src": "assets/work/04_Scans/08_ChatGPT_Image_Jun_23_2026_03_26_55_PM.png",
-          "name": "ChatGPT Image Jun 23, 2026, 03_26_55 PM"
+          "name": "1 (1)"
         }
       ]
     },

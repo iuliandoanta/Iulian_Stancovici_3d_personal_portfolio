@@ -139,35 +139,35 @@ window.PORTFOLIO_DATA = {
       "title": "Scans",
       "items": [
         {
-          "src": "assets/work/04_Scans/01_ChatGPT_Image_Jun_22_2026_05_44_04_PM.png",
+          "src": "assets/work/04_Scans/1 (2)",
           "name": "1 (2)"
         },
         {
-          "src": "assets/work/04_Scans/02_ChatGPT_Image_Jun_22_2026_05_44_06_PM.png",
+          "src": "assets/work/04_Scans/1 (3)",
           "name": "1 (3)"
         },
         {
-          "src": "assets/work/04_Scans/03_ChatGPT_Image_Jun_22_2026_05_44_08_PM.png",
+          "src": "assets/work/04_Scans/1 (4)",
           "name": "1 (4)"
         },
         {
-          "src": "assets/work/04_Scans/04_ChatGPT_Image_Jun_22_2026_05_53_35_PM.png",
+          "src": "assets/work/04_Scans/1 (5)",
           "name": "1 (5)"
         },
         {
-          "src": "assets/work/04_Scans/05_ChatGPT_Image_Jun_22_2026_05_53_37_PM.png",
+          "src": "assets/work/04_Scans/1 (6)",
           "name": "1 (6)"
         },
         {
-          "src": "assets/work/04_Scans/06_ChatGPT_Image_Jun_22_2026_05_53_40_PM.png",
+          "src": "assets/work/04_Scans/1 (7)",
           "name": "1 (7)"
         },
         {
-          "src": "assets/work/04_Scans/07_ChatGPT_Image_Jun_22_2026_05_54_24_PM.png",
+          "src": "assets/work/04_Scans/1 (8)",
           "name": "1 (8)"
         },
         {
-          "src": "assets/work/04_Scans/08_ChatGPT_Image_Jun_23_2026_03_26_55_PM.png",
+          "src": "assets/work/04_Scans/1 (1)",
           "name": "1 (1)"
         }
       ]

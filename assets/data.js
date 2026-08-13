@@ -50,19 +50,19 @@ window.PORTFOLIO_DATA = {
           "name": "23_redesing_seat_5_"
         },
         {
-          "src": "assets/work/03_props/romanian_clay_statue  (10).png",
+          "src": "assets/work/03_props/romanian_clay_statue  (10).jpg",
           "name": "romanian_clay_statue  (10)"
         },
         {
-          "src": "assets/work/03_props/romanian_clay_statue (4).png",
+          "src": "assets/work/03_props/romanian_clay_statue (4).jpg",
           "name": "romanian_clay_statue (4)"
         },
         {
-          "src": "assets/work/03_props/romanian_clay_statue  (9).png",
+          "src": "assets/work/03_props/romanian_clay_statue  (9).jpg",
           "name": "romanian_clay_statue  (9)"
         },
         {
-          "src": "assets/work/03_props/romanian_clay_statue  (7).png",
+          "src": "assets/work/03_props/romanian_clay_statue  (7).jpg",
           "name": "romanian_clay_statue  (7)"
         },
         {

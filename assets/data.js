@@ -41,96 +41,220 @@ window.PORTFOLIO_DATA = {
       "title": "Props",
       "items": [
         {
-          "src": "assets/work/03_props/01_Military_shovel_1.png",
-          "name": "Military_shovel_1"
-        },
-        {
-          "src": "assets/work/03_props/02_Military_station_1.jpg",
-          "name": "Military_station_1"
-        },
-        {
-          "src": "assets/work/03_props/03_Military_station_2.jpg",
-          "name": "Military_station_2"
-        },
-        {
-          "src": "assets/work/03_props/04_Military_station_3.jpg",
-          "name": "Military_station_3"
-        },
-        {
-          "src": "assets/work/03_props/05_Romanian_clay_cup_1.png",
-          "name": "Romanian_clay_cup_1"
-        },
-        {
-          "src": "assets/work/03_props/06_Romanian_clay_cup_2.png",
-          "name": "Romanian_clay_cup_2"
-        },
-        {
-          "src": "assets/work/03_props/07_Romanian_clay_cup_3.png",
-          "name": "Romanian_clay_cup_3"
-        },
-        {
-          "src": "assets/work/03_props/08_axe_1_.png",
-          "name": "axe (1)"
-        },
-        {
-          "src": "assets/work/03_props/09_axe_2_.png",
-          "name": "axe (2)"
-        },
-        {
-          "src": "assets/work/03_props/10_medieval_door_1_.jpg",
-          "name": "medieval_door (1)"
-        },
-        {
-          "src": "assets/work/03_props/11_medieval_door_1_.png",
-          "name": "medieval_door (1)"
-        },
-        {
-          "src": "assets/work/03_props/12_medieval_door_2_.png",
-          "name": "medieval_door (2)"
-        },
-        {
-          "src": "assets/work/03_props/13_medieval_door_3_.png",
-          "name": "medieval_door (3)"
-        },
-        {
-          "src": "assets/work/03_props/14_medieval_door_4_.png",
-          "name": "medieval_door (4)"
-        },
-        {
-          "src": "assets/work/03_props/15_medieval_door_5_.png",
-          "name": "medieval_door (5)"
-        },
-        {
-          "src": "assets/work/03_props/16_medieval_door_6_.png",
-          "name": "medieval_door (6)"
-        },
-        {
-          "src": "assets/work/03_props/17_military_can_1.png",
-          "name": "military_can_1"
-        },
-        {
-          "src": "assets/work/03_props/18_military_can_2.png",
-          "name": "military_can_2"
-        },
-        {
           "src": "assets/work/03_props/19_redesing_seat_1_.png",
-          "name": "redesing_seat (1)"
+          "name": "19_redesing_seat_1_"
         },
         {
           "src": "assets/work/03_props/20_redesing_seat_2_.png",
-          "name": "redesing_seat (2)"
+          "name": "20_redesing_seat_2_"
         },
         {
           "src": "assets/work/03_props/21_redesing_seat_3_.png",
-          "name": "redesing_seat (3)"
+          "name": "21_redesing_seat_3_"
         },
         {
           "src": "assets/work/03_props/22_redesing_seat_4_.png",
-          "name": "redesing_seat (4)"
+          "name": "22_redesing_seat_4_"
         },
         {
           "src": "assets/work/03_props/23_redesing_seat_5_.png",
-          "name": "redesing_seat (5)"
+          "name": "23_redesing_seat_5_"
+        },
+        {
+          "src": "assets/work/03_props/romanian_clay_statue  (10).png",
+          "name": "romanian_clay_statue  (10)"
+        },
+        {
+          "src": "assets/work/03_props/romanian_clay_statue (4).png",
+          "name": "romanian_clay_statue (4)"
+        },
+        {
+          "src": "assets/work/03_props/romanian_clay_statue  (9).png",
+          "name": "romanian_clay_statue  (9)"
+        },
+        {
+          "src": "assets/work/03_props/romanian_clay_statue  (7).png",
+          "name": "romanian_clay_statue  (7)"
+        },
+        {
+          "src": "assets/work/03_props/romanian_clay_statue  (6).jpg",
+          "name": "romanian_clay_statue  (6)"
+        },
+        {
+          "src": "assets/work/03_props/romanian_clay_statue  (5).jpg",
+          "name": "romanian_clay_statue  (5)"
+        },
+        {
+          "src": "assets/work/03_props/romanian_clay_statue  (4).jpg",
+          "name": "romanian_clay_statue  (4)"
+        },
+        {
+          "src": "assets/work/03_props/romanian_clay_statue  (3).jpg",
+          "name": "romanian_clay_statue  (3)"
+        },
+        {
+          "src": "assets/work/03_props/romanian_clay_statue  (2).jpg",
+          "name": "romanian_clay_statue  (2)"
+        },
+        {
+          "src": "assets/work/03_props/romanian_clay_statue  (8).jpg",
+          "name": "romanian_clay_statue  (8)"
+        },
+        {
+          "src": "assets/work/03_props/romanian_clay_statue  (1).jpg",
+          "name": "romanian_clay_statue  (1)"
+        },
+        {
+          "src": "assets/work/03_props/Small_radio_station (1).png",
+          "name": "Small_radio_station (1)"
+        },
+        {
+          "src": "assets/work/03_props/Small_radio_station (6).png",
+          "name": "Small_radio_station (6)"
+        },
+        {
+          "src": "assets/work/03_props/Small_radio_station (4).png",
+          "name": "Small_radio_station (4)"
+        },
+        {
+          "src": "assets/work/03_props/Small_radio_station (7).png",
+          "name": "Small_radio_station (7)"
+        },
+        {
+          "src": "assets/work/03_props/Small_radio_station (3).png",
+          "name": "Small_radio_station (3)"
+        },
+        {
+          "src": "assets/work/03_props/King's chair 8.jpg",
+          "name": "King's chair 8"
+        },
+        {
+          "src": "assets/work/03_props/King's chair 4.jpg",
+          "name": "King's chair 4"
+        },
+        {
+          "src": "assets/work/03_props/King's chair 3.jpg",
+          "name": "King's chair 3"
+        },
+        {
+          "src": "assets/work/03_props/King's chair 2.jpg",
+          "name": "King's chair 2"
+        },
+        {
+          "src": "assets/work/03_props/King's chair 1.jpg",
+          "name": "King's chair 1"
+        },
+        {
+          "src": "assets/work/03_props/King's chair (7).jpg",
+          "name": "King's chair (7)"
+        },
+        {
+          "src": "assets/work/03_props/King's chair (6).jpg",
+          "name": "King's chair (6)"
+        },
+        {
+          "src": "assets/work/03_props/Gas_Station (1).png",
+          "name": "Gas_Station (1)"
+        },
+        {
+          "src": "assets/work/03_props/Gas_Station (1s).jpg",
+          "name": "Gas_Station (1s)"
+        },
+        {
+          "src": "assets/work/03_props/Gas_Station (2).jpg",
+          "name": "Gas_Station (2)"
+        },
+        {
+          "src": "assets/work/03_props/Gas_Station (3).jpg",
+          "name": "Gas_Station (3)"
+        },
+        {
+          "src": "assets/work/03_props/Gas_Station (4).jpg",
+          "name": "Gas_Station (4)"
+        },
+        {
+          "src": "assets/work/03_props/Gas_Station (5).jpg",
+          "name": "Gas_Station (5)"
+        },
+        {
+          "src": "assets/work/03_props/Gas_Station (6).jpg",
+          "name": "Gas_Station (6)"
+        },
+        {
+          "src": "assets/work/03_props/17_military_can_1.png",
+          "name": "17_military_can_1"
+        },
+        {
+          "src": "assets/work/03_props/18_military_can_2.png",
+          "name": "18_military_can_2"
+        },
+        {
+          "src": "assets/work/03_props/08_axe_1_.png",
+          "name": "08_axe_1_"
+        },
+        {
+          "src": "assets/work/03_props/09_axe_2_ (1).jpg",
+          "name": "09_axe_2_ (1)"
+        },
+        {
+          "src": "assets/work/03_props/09_axe_2_ (2).jpg",
+          "name": "09_axe_2_ (2)"
+        },
+        {
+          "src": "assets/work/03_props/09_axe_2_ (3).jpg",
+          "name": "09_axe_2_ (3)"
+        },
+        {
+          "src": "assets/work/03_props/09_axe_2_ (4).jpg",
+          "name": "09_axe_2_ (4)"
+        },
+        {
+          "src": "assets/work/03_props/09_axe_2_.jpg",
+          "name": "09_axe_2_"
+        },
+        {
+          "src": "assets/work/03_props/07_Romanian_clay_cup_3 (1).jpg",
+          "name": "07_Romanian_clay_cup_3 (1)"
+        },
+        {
+          "src": "assets/work/03_props/07_Romanian_clay_cup_3 (2).jpg",
+          "name": "07_Romanian_clay_cup_3 (2)"
+        },
+        {
+          "src": "assets/work/03_props/07_Romanian_clay_cup_3 (4).jpg",
+          "name": "07_Romanian_clay_cup_3 (4)"
+        },
+        {
+          "src": "assets/work/03_props/07_Romanian_clay_cup_3 (5).jpg",
+          "name": "07_Romanian_clay_cup_3 (5)"
+        },
+        {
+          "src": "assets/work/03_props/04_Military_station_3.jpg",
+          "name": "04_Military_station_3"
+        },
+        {
+          "src": "assets/work/03_props/02_Military_station_1.jpg",
+          "name": "02_Military_station_1"
+        },
+        {
+          "src": "assets/work/03_props/03_Military_station_2.jpg",
+          "name": "03_Military_station_2"
+        },
+        {
+          "src": "assets/work/03_props/04_Military_station_3 (1).jpg",
+          "name": "04_Military_station_3 (1)"
+        },
+        {
+          "src": "assets/work/03_props/04_Military_station_3 (2).jpg",
+          "name": "04_Military_station_3 (2)"
+        },
+        {
+          "src": "assets/work/03_props/04_Military_station_3 (3).jpg",
+          "name": "04_Military_station_3 (3)"
+        },
+        {
+          "src": "assets/work/03_props/04_Military_station_3 (4).jpg",
+          "name": "04_Military_station_3 (4)"
         }
       ]
     },

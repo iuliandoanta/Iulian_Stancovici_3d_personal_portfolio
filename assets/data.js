@@ -1,13 +1,10 @@
 window.PORTFOLIO_DATA = {
   "landscape": [
-    "assets/landscape/01_ChatGPT_Image_Jun_22_2026_05_44_06_PM.png",
-    "assets/landscape/02_axe_2_.png",
-    "assets/landscape/03_radio_1_.png",
+    "assets/landscape/01_asd.png",
     "assets/landscape/04_redesing_seat_4_.png",
     "assets/landscape/05_truck_11_.png",
     "assets/landscape/06_vw_Caddy_3_.png",
-    "assets/landscape/07_weapons_2_.png",
-    "assets/landscape/08_weapons_5_.png"
+    "assets/landscape/07_weapons_5_.png",
   ],
   "categories": [
     {
@@ -25,14 +22,6 @@ window.PORTFOLIO_DATA = {
         {
           "src": "assets/work/02_hardsurface/03_helmet_1_.png",
           "name": "helmet (1)"
-        },
-        {
-          "src": "assets/work/02_hardsurface/04_radio_1_.png",
-          "name": "radio (1)"
-        },
-        {
-          "src": "assets/work/02_hardsurface/05_radio_2_.png",
-          "name": "radio (2)"
         }
       ]
     },
@@ -327,20 +316,8 @@ window.PORTFOLIO_DATA = {
       "title": "Weapons",
       "items": [
         {
-          "src": "assets/work/06_weapons/01_weapons_1_.png",
-          "name": "weapons (1)"
-        },
-        {
           "src": "assets/work/06_weapons/02_weapons_2_.png",
           "name": "weapons (2)"
-        },
-        {
-          "src": "assets/work/06_weapons/03_weapons_3_.png",
-          "name": "weapons (3)"
-        },
-        {
-          "src": "assets/work/06_weapons/04_weapons_4_.png",
-          "name": "weapons (4)"
         },
         {
           "src": "assets/work/06_weapons/05_weapons_5_.png",
@@ -349,10 +326,6 @@ window.PORTFOLIO_DATA = {
         {
           "src": "assets/work/06_weapons/06_weapons_6_.png",
           "name": "weapons (6)"
-        },
-        {
-          "src": "assets/work/06_weapons/07_weapons_7_.png",
-          "name": "weapons (7)"
         }
       ]
     }

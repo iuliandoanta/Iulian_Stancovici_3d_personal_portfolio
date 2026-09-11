@@ -330,7 +330,7 @@ window.PORTFOLIO_DATA = {
       ]
     }
   ],
-  "aboutImage": "assets/about/about.pdf",
+  "aboutImage": "assets/about/about.jpg",
   "links": {
     "linkedin": "https://www.linkedin.com/in/iulian-stancovici-218b2b113/",
     "artstation": "https://www.artstation.com/doantaiulianclaudiu",
